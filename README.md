@@ -1,2 +1,13 @@
-# Minimax-AlphaBeta-TicTacToe
-The implemention of popular game algorithms "Minimax" and "AlphaBeta" for Tic-Tac-Toe game. Please check out document for more info and analysis.
+# Tic-Tac-Toe - Minimax and AlphaBeta Algorithms
+
+This project implements the **Minimax** and **AlphaBeta** pruning algorithms for the **Tic-Tac-Toe** game, optimizing the decision-making process for the AI player.
+
+## Features:
+- **Minimax algorithm** for game decision making.
+- **AlphaBeta pruning** to optimize the Minimax algorithm's performance.
+
+---
+
+*Contributor: [Sepide Bahrami](https://github.com/sepiidebahramii)*
+
+---
